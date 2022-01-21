@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariajtm
 - 👀 I’m interested in learning different coding languages 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me @ mariatapiamarcos on linkedin
 
